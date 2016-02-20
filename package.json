@@ -1,0 +1,21 @@
+{
+  "name": "epoch",
+  "main": "./lib/epoch",
+  "version": "0.0.0",
+  "description": "Converts human-readable date string into Unix epoch time",
+  "keywords": [
+    "unix",
+    "time",
+    "conversion"
+  ],
+  "activationCommands": {
+    "atom-workspace": "epoch:convert"
+  },
+  "repository": "https://github.com/esquire-/epoch",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
